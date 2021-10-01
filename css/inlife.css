@@ -1,0 +1,84 @@
+#link{
+    color: #02475b;
+}
+
+#link > i {
+    padding-top: 12px;
+    font-size: 2.4rem;
+}
+
+#inlife-two{
+    width: 90%;
+    margin: auto;
+    padding-top: 130px;
+    display: flex;
+    gap: 30px;
+}
+
+#inlife-two > div {
+    width: 30%;
+}
+
+#slider > img{
+    box-shadow: none;
+}
+
+#slider + div {
+    padding-left: 95px;
+    padding-top: 10px;
+}
+
+#left, #right {
+    border: none;
+    margin-top: 5px;
+    background-color: white;
+}
+
+.inlife-two-b > span {
+    color: #68919D;
+}
+
+.inlife-two-b > p{
+    margin: 0;
+    margin-bottom: 15px;
+}
+
+.inlife-two-b > div{
+    background-color: #CCF0E8;
+    width: 60px;
+    height: 20px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.inlife-two-c > div:nth-child(1){
+    border: 1px solid #02475b;
+    padding-left: 20px;
+}
+
+.inlife-two-c > div > button{
+    width: 90%;
+    height: 40px;
+    color: white;
+    background-color: #FCB716;
+    border-radius: 5px;
+    margin-bottom: 20px; 
+    border: none;
+}
+
+.inlife-two-c > div > button:hover{
+    cursor: pointer;
+}
+
+.inlife-two-c > div > img {
+    width: 96%;
+    border-radius: 5px;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+#inlife-three{
+   width: 90%;
+   margin: auto;
+   margin-top: 70px;
+}
